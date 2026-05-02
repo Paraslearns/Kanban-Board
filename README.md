@@ -79,7 +79,7 @@ This project was built as a capstone project to demonstrate proficiency in build
 | Deployment   | Vercel                             |
 | Version Ctrl | Git & GitHub                       |
 
-> *Adjust the tech stack entries above to match your actual implementation.*
+
 
 ---
 
@@ -95,7 +95,7 @@ Make sure you have the following installed:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository**
 
@@ -128,7 +128,7 @@ http://localhost:3000
 
 ---
 
-## 🧭 Usage
+##  Usage
 
 1. **Add a new task** by clicking the `+ Add Task` button in any column.
 2. **Edit a task** by clicking on the task card to open the edit modal.
@@ -138,7 +138,7 @@ http://localhost:3000
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 kanban-board/
