@@ -1,6 +1,6 @@
 # Capstone Kanban Board
 
-Front-end only Kanban board built with React, JavaScript, Tailwind CSS, Zustand, and localStorage.
+Front-end only Kanban board built with React, JavaScript, Tailwind CSS, and localStorage.
 
 ![Kanban board screenshot](screenshots/kanban-board.png)
 
